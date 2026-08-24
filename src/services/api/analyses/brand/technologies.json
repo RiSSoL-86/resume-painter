@@ -1,0 +1,1039 @@
+{
+  "_meta": {
+    "source": "Resume Analysis Brand Icons Manifest",
+    "version": "2026-08-26-v4",
+    "strategy": "Simple Icons v16 SVG CDN."
+  },
+  "postgresql": {
+    "name": "PostgreSQL",
+    "category": "database",
+    "aliases": [
+      "postgres",
+      "postgresql",
+      "pgsql",
+      "postgre sql"
+    ],
+    "simple_icons_slug": "postgresql",
+    "icon_url": "https://cdn.simpleicons.org/postgresql",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "mysql": {
+    "name": "MySQL",
+    "category": "database",
+    "aliases": [
+      "mysql"
+    ],
+    "simple_icons_slug": "mysql",
+    "icon_url": "https://cdn.simpleicons.org/mysql",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "mariadb": {
+    "name": "MariaDB",
+    "category": "database",
+    "aliases": [
+      "mariadb"
+    ],
+    "simple_icons_slug": "mariadb",
+    "icon_url": "https://cdn.simpleicons.org/mariadb",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "mongodb": {
+    "name": "MongoDB",
+    "category": "database",
+    "aliases": [
+      "mongodb",
+      "mongo"
+    ],
+    "simple_icons_slug": "mongodb",
+    "icon_url": "https://cdn.simpleicons.org/mongodb",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "redis": {
+    "name": "Redis",
+    "category": "database",
+    "aliases": [
+      "redis"
+    ],
+    "simple_icons_slug": "redis",
+    "icon_url": "https://cdn.simpleicons.org/redis",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "clickhouse": {
+    "name": "ClickHouse",
+    "category": "database",
+    "aliases": [
+      "clickhouse",
+      "click house"
+    ],
+    "simple_icons_slug": "clickhouse",
+    "icon_url": "https://cdn.simpleicons.org/clickhouse",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "oracle": {
+    "name": "Oracle",
+    "category": "database",
+    "aliases": [
+      "oracle",
+      "oracle db"
+    ],
+    "simple_icons_slug": "oracle",
+    "icon_url": "https://cdn.simpleicons.org/oracle",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "microsoftsqlserver": {
+    "name": "Microsoft SQL Server",
+    "category": "database",
+    "aliases": [
+      "mssql",
+      "ms sql",
+      "sql server",
+      "microsoft sql server"
+    ],
+    "simple_icons_slug": "microsoftsqlserver",
+    "icon_url": "https://cdn.simpleicons.org/microsoftsqlserver",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "sqlite": {
+    "name": "SQLite",
+    "category": "database",
+    "aliases": [
+      "sqlite"
+    ],
+    "simple_icons_slug": "sqlite",
+    "icon_url": "https://cdn.simpleicons.org/sqlite",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "elasticsearch": {
+    "name": "Elasticsearch",
+    "category": "database_search",
+    "aliases": [
+      "elasticsearch",
+      "elastic search"
+    ],
+    "simple_icons_slug": "elasticsearch",
+    "icon_url": "https://cdn.simpleicons.org/elasticsearch",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "opensearch": {
+    "name": "OpenSearch",
+    "category": "database_search",
+    "aliases": [
+      "opensearch",
+      "open search"
+    ],
+    "simple_icons_slug": "opensearch",
+    "icon_url": "https://cdn.simpleicons.org/opensearch",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "apachecassandra": {
+    "name": "Apache Cassandra",
+    "category": "database",
+    "aliases": [
+      "cassandra",
+      "apache cassandra"
+    ],
+    "simple_icons_slug": "apachecassandra",
+    "icon_url": "https://cdn.simpleicons.org/apachecassandra",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "neo4j": {
+    "name": "Neo4j",
+    "category": "database",
+    "aliases": [
+      "neo4j"
+    ],
+    "simple_icons_slug": "neo4j",
+    "icon_url": "https://cdn.simpleicons.org/neo4j",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "influxdb": {
+    "name": "InfluxDB",
+    "category": "database",
+    "aliases": [
+      "influxdb",
+      "influx"
+    ],
+    "simple_icons_slug": "influxdb",
+    "icon_url": "https://cdn.simpleicons.org/influxdb",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "apachekafka": {
+    "name": "Apache Kafka",
+    "category": "messaging",
+    "aliases": [
+      "kafka",
+      "apache kafka"
+    ],
+    "simple_icons_slug": "apachekafka",
+    "icon_url": "https://cdn.simpleicons.org/apachekafka",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "rabbitmq": {
+    "name": "RabbitMQ",
+    "category": "messaging",
+    "aliases": [
+      "rabbitmq",
+      "rabbit mq"
+    ],
+    "simple_icons_slug": "rabbitmq",
+    "icon_url": "https://cdn.simpleicons.org/rabbitmq",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "apachepulsar": {
+    "name": "Apache Pulsar",
+    "category": "messaging",
+    "aliases": [
+      "pulsar",
+      "apache pulsar"
+    ],
+    "simple_icons_slug": "apachepulsar",
+    "icon_url": "https://cdn.simpleicons.org/apachepulsar",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "natsdotio": {
+    "name": "NATS",
+    "category": "messaging",
+    "aliases": [
+      "nats",
+      "nats.io"
+    ],
+    "simple_icons_slug": "natsdotio",
+    "icon_url": "https://cdn.simpleicons.org/natsdotio",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "docker": {
+    "name": "Docker",
+    "category": "devops",
+    "aliases": [
+      "docker"
+    ],
+    "simple_icons_slug": "docker",
+    "icon_url": "https://cdn.simpleicons.org/docker",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "kubernetes": {
+    "name": "Kubernetes",
+    "category": "devops",
+    "aliases": [
+      "kubernetes",
+      "k8s"
+    ],
+    "simple_icons_slug": "kubernetes",
+    "icon_url": "https://cdn.simpleicons.org/kubernetes",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "helm": {
+    "name": "Helm",
+    "category": "devops",
+    "aliases": [
+      "helm",
+      "helm chart"
+    ],
+    "simple_icons_slug": "helm",
+    "icon_url": "https://cdn.simpleicons.org/helm",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "terraform": {
+    "name": "Terraform",
+    "category": "devops",
+    "aliases": [
+      "terraform"
+    ],
+    "simple_icons_slug": "terraform",
+    "icon_url": "https://cdn.simpleicons.org/terraform",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "ansible": {
+    "name": "Ansible",
+    "category": "devops",
+    "aliases": [
+      "ansible"
+    ],
+    "simple_icons_slug": "ansible",
+    "icon_url": "https://cdn.simpleicons.org/ansible",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "jenkins": {
+    "name": "Jenkins",
+    "category": "cicd",
+    "aliases": [
+      "jenkins"
+    ],
+    "simple_icons_slug": "jenkins",
+    "icon_url": "https://cdn.simpleicons.org/jenkins",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "gitlab": {
+    "name": "GitLab",
+    "category": "vcs_cicd",
+    "aliases": [
+      "gitlab",
+      "gitlab ci"
+    ],
+    "simple_icons_slug": "gitlab",
+    "icon_url": "https://cdn.simpleicons.org/gitlab",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "github": {
+    "name": "GitHub",
+    "category": "vcs_cicd",
+    "aliases": [
+      "github"
+    ],
+    "simple_icons_slug": "github",
+    "icon_url": "https://cdn.simpleicons.org/github",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "githubactions": {
+    "name": "GitHub Actions",
+    "category": "cicd",
+    "aliases": [
+      "github actions",
+      "gha"
+    ],
+    "simple_icons_slug": "githubactions",
+    "icon_url": "https://cdn.simpleicons.org/githubactions",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "bitbucket": {
+    "name": "Bitbucket",
+    "category": "vcs",
+    "aliases": [
+      "bitbucket"
+    ],
+    "simple_icons_slug": "bitbucket",
+    "icon_url": "https://cdn.simpleicons.org/bitbucket",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "git": {
+    "name": "Git",
+    "category": "vcs",
+    "aliases": [
+      "git"
+    ],
+    "simple_icons_slug": "git",
+    "icon_url": "https://cdn.simpleicons.org/git",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "prometheus": {
+    "name": "Prometheus",
+    "category": "observability",
+    "aliases": [
+      "prometheus"
+    ],
+    "simple_icons_slug": "prometheus",
+    "icon_url": "https://cdn.simpleicons.org/prometheus",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "grafana": {
+    "name": "Grafana",
+    "category": "observability",
+    "aliases": [
+      "grafana"
+    ],
+    "simple_icons_slug": "grafana",
+    "icon_url": "https://cdn.simpleicons.org/grafana",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "kibana": {
+    "name": "Kibana",
+    "category": "observability",
+    "aliases": [
+      "kibana"
+    ],
+    "simple_icons_slug": "kibana",
+    "icon_url": "https://cdn.simpleicons.org/kibana",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "datadog": {
+    "name": "Datadog",
+    "category": "observability",
+    "aliases": [
+      "datadog"
+    ],
+    "simple_icons_slug": "datadog",
+    "icon_url": "https://cdn.simpleicons.org/datadog",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "sentry": {
+    "name": "Sentry",
+    "category": "observability",
+    "aliases": [
+      "sentry"
+    ],
+    "simple_icons_slug": "sentry",
+    "icon_url": "https://cdn.simpleicons.org/sentry",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "sonarqube": {
+    "name": "SonarQube",
+    "category": "quality",
+    "aliases": [
+      "sonarqube",
+      "sonar"
+    ],
+    "simple_icons_slug": "sonarqube",
+    "icon_url": "https://cdn.simpleicons.org/sonarqube",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "swagger": {
+    "name": "Swagger",
+    "category": "api",
+    "aliases": [
+      "swagger"
+    ],
+    "simple_icons_slug": "swagger",
+    "icon_url": "https://cdn.simpleicons.org/swagger",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "openapiinitiative": {
+    "name": "OpenAPI",
+    "category": "api",
+    "aliases": [
+      "openapi",
+      "open api"
+    ],
+    "simple_icons_slug": "openapiinitiative",
+    "icon_url": "https://cdn.simpleicons.org/openapiinitiative",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "postman": {
+    "name": "Postman",
+    "category": "api",
+    "aliases": [
+      "postman"
+    ],
+    "simple_icons_slug": "postman",
+    "icon_url": "https://cdn.simpleicons.org/postman",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "insomnia": {
+    "name": "Insomnia",
+    "category": "api",
+    "aliases": [
+      "insomnia"
+    ],
+    "simple_icons_slug": "insomnia",
+    "icon_url": "https://cdn.simpleicons.org/insomnia",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "graphql": {
+    "name": "GraphQL",
+    "category": "api",
+    "aliases": [
+      "graphql"
+    ],
+    "simple_icons_slug": "graphql",
+    "icon_url": "https://cdn.simpleicons.org/graphql",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "grpc": {
+    "name": "gRPC",
+    "category": "api",
+    "aliases": [
+      "grpc",
+      "g rpc"
+    ],
+    "simple_icons_slug": "grpc",
+    "icon_url": "https://cdn.simpleicons.org/grpc",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "python": {
+    "name": "Python",
+    "category": "language",
+    "aliases": [
+      "python"
+    ],
+    "simple_icons_slug": "python",
+    "icon_url": "https://cdn.simpleicons.org/python",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "java": {
+    "name": "Java",
+    "category": "language",
+    "aliases": [
+      "java"
+    ],
+    "simple_icons_slug": "java",
+    "icon_url": "https://cdn.simpleicons.org/java",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "kotlin": {
+    "name": "Kotlin",
+    "category": "language",
+    "aliases": [
+      "kotlin"
+    ],
+    "simple_icons_slug": "kotlin",
+    "icon_url": "https://cdn.simpleicons.org/kotlin",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "go": {
+    "name": "Go",
+    "category": "language",
+    "aliases": [
+      "golang",
+      "go"
+    ],
+    "simple_icons_slug": "go",
+    "icon_url": "https://cdn.simpleicons.org/go",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "rust": {
+    "name": "Rust",
+    "category": "language",
+    "aliases": [
+      "rust"
+    ],
+    "simple_icons_slug": "rust",
+    "icon_url": "https://cdn.simpleicons.org/rust",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "cplusplus": {
+    "name": "C++",
+    "category": "language",
+    "aliases": [
+      "c++",
+      "cpp"
+    ],
+    "simple_icons_slug": "cplusplus",
+    "icon_url": "https://cdn.simpleicons.org/cplusplus",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "csharp": {
+    "name": "C#",
+    "category": "language",
+    "aliases": [
+      "c#",
+      "csharp"
+    ],
+    "simple_icons_slug": "csharp",
+    "icon_url": "https://cdn.simpleicons.org/csharp",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "javascript": {
+    "name": "JavaScript",
+    "category": "language",
+    "aliases": [
+      "javascript",
+      "js"
+    ],
+    "simple_icons_slug": "javascript",
+    "icon_url": "https://cdn.simpleicons.org/javascript",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "typescript": {
+    "name": "TypeScript",
+    "category": "language",
+    "aliases": [
+      "typescript",
+      "ts"
+    ],
+    "simple_icons_slug": "typescript",
+    "icon_url": "https://cdn.simpleicons.org/typescript",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "php": {
+    "name": "PHP",
+    "category": "language",
+    "aliases": [
+      "php"
+    ],
+    "simple_icons_slug": "php",
+    "icon_url": "https://cdn.simpleicons.org/php",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "ruby": {
+    "name": "Ruby",
+    "category": "language",
+    "aliases": [
+      "ruby"
+    ],
+    "simple_icons_slug": "ruby",
+    "icon_url": "https://cdn.simpleicons.org/ruby",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "spring": {
+    "name": "Spring",
+    "category": "backend",
+    "aliases": [
+      "spring"
+    ],
+    "simple_icons_slug": "spring",
+    "icon_url": "https://cdn.simpleicons.org/spring",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "springboot": {
+    "name": "Spring Boot",
+    "category": "backend",
+    "aliases": [
+      "spring boot",
+      "springboot"
+    ],
+    "simple_icons_slug": "springboot",
+    "icon_url": "https://cdn.simpleicons.org/springboot",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "django": {
+    "name": "Django",
+    "category": "backend",
+    "aliases": [
+      "django"
+    ],
+    "simple_icons_slug": "django",
+    "icon_url": "https://cdn.simpleicons.org/django",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "fastapi": {
+    "name": "FastAPI",
+    "category": "backend",
+    "aliases": [
+      "fastapi",
+      "fast api"
+    ],
+    "simple_icons_slug": "fastapi",
+    "icon_url": "https://cdn.simpleicons.org/fastapi",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "flask": {
+    "name": "Flask",
+    "category": "backend",
+    "aliases": [
+      "flask"
+    ],
+    "simple_icons_slug": "flask",
+    "icon_url": "https://cdn.simpleicons.org/flask",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "dotnet": {
+    "name": ".NET",
+    "category": "backend",
+    "aliases": [
+      ".net",
+      "dotnet",
+      "asp.net"
+    ],
+    "simple_icons_slug": "dotnet",
+    "icon_url": "https://cdn.simpleicons.org/dotnet",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "nodedotjs": {
+    "name": "Node.js",
+    "category": "backend",
+    "aliases": [
+      "node.js",
+      "nodejs",
+      "node"
+    ],
+    "simple_icons_slug": "nodedotjs",
+    "icon_url": "https://cdn.simpleicons.org/nodedotjs",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "nestjs": {
+    "name": "NestJS",
+    "category": "backend",
+    "aliases": [
+      "nestjs",
+      "nest.js"
+    ],
+    "simple_icons_slug": "nestjs",
+    "icon_url": "https://cdn.simpleicons.org/nestjs",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "react": {
+    "name": "React",
+    "category": "frontend",
+    "aliases": [
+      "react",
+      "reactjs"
+    ],
+    "simple_icons_slug": "react",
+    "icon_url": "https://cdn.simpleicons.org/react",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "angular": {
+    "name": "Angular",
+    "category": "frontend",
+    "aliases": [
+      "angular"
+    ],
+    "simple_icons_slug": "angular",
+    "icon_url": "https://cdn.simpleicons.org/angular",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "vuedotjs": {
+    "name": "Vue.js",
+    "category": "frontend",
+    "aliases": [
+      "vue",
+      "vue.js",
+      "vuejs"
+    ],
+    "simple_icons_slug": "vuedotjs",
+    "icon_url": "https://cdn.simpleicons.org/vuedotjs",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "nextdotjs": {
+    "name": "Next.js",
+    "category": "frontend",
+    "aliases": [
+      "next.js",
+      "nextjs"
+    ],
+    "simple_icons_slug": "nextdotjs",
+    "icon_url": "https://cdn.simpleicons.org/nextdotjs",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "apacheairflow": {
+    "name": "Apache Airflow",
+    "category": "data",
+    "aliases": [
+      "airflow",
+      "apache airflow"
+    ],
+    "simple_icons_slug": "apacheairflow",
+    "icon_url": "https://cdn.simpleicons.org/apacheairflow",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "apachespark": {
+    "name": "Apache Spark",
+    "category": "data",
+    "aliases": [
+      "spark",
+      "apache spark"
+    ],
+    "simple_icons_slug": "apachespark",
+    "icon_url": "https://cdn.simpleicons.org/apachespark",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "apacheflink": {
+    "name": "Apache Flink",
+    "category": "data",
+    "aliases": [
+      "flink",
+      "apache flink"
+    ],
+    "simple_icons_slug": "apacheflink",
+    "icon_url": "https://cdn.simpleicons.org/apacheflink",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "dbt": {
+    "name": "dbt",
+    "category": "data",
+    "aliases": [
+      "dbt"
+    ],
+    "simple_icons_slug": "dbt",
+    "icon_url": "https://cdn.simpleicons.org/dbt",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "amazonwebservices": {
+    "name": "AWS",
+    "category": "cloud",
+    "aliases": [
+      "aws",
+      "amazon web services"
+    ],
+    "simple_icons_slug": "amazonwebservices",
+    "icon_url": "https://cdn.simpleicons.org/amazonwebservices",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg",
+    "fallback_icon_url": "https://icons.iconarchive.com/icons/simpleicons-team/simple/128/amazon-aws-icon.png"
+  },
+  "googlecloud": {
+    "name": "Google Cloud",
+    "category": "cloud",
+    "aliases": [
+      "gcp",
+      "google cloud"
+    ],
+    "simple_icons_slug": "googlecloud",
+    "icon_url": "https://cdn.simpleicons.org/googlecloud",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "microsoftazure": {
+    "name": "Microsoft Azure",
+    "category": "cloud",
+    "aliases": [
+      "azure",
+      "microsoft azure"
+    ],
+    "simple_icons_slug": "microsoftazure",
+    "icon_url": "https://cdn.simpleicons.org/microsoftazure",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "cloudflare": {
+    "name": "Cloudflare",
+    "category": "cloud",
+    "aliases": [
+      "cloudflare"
+    ],
+    "simple_icons_slug": "cloudflare",
+    "icon_url": "https://cdn.simpleicons.org/cloudflare",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "digitalocean": {
+    "name": "DigitalOcean",
+    "category": "cloud",
+    "aliases": [
+      "digitalocean"
+    ],
+    "simple_icons_slug": "digitalocean",
+    "icon_url": "https://cdn.simpleicons.org/digitalocean",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "jira": {
+    "name": "Jira",
+    "category": "collaboration",
+    "aliases": [
+      "jira"
+    ],
+    "simple_icons_slug": "jira",
+    "icon_url": "https://cdn.simpleicons.org/jira",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "confluence": {
+    "name": "Confluence",
+    "category": "collaboration",
+    "aliases": [
+      "confluence"
+    ],
+    "simple_icons_slug": "confluence",
+    "icon_url": "https://cdn.simpleicons.org/confluence",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "figma": {
+    "name": "Figma",
+    "category": "design",
+    "aliases": [
+      "figma"
+    ],
+    "simple_icons_slug": "figma",
+    "icon_url": "https://cdn.simpleicons.org/figma",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "miro": {
+    "name": "Miro",
+    "category": "collaboration",
+    "aliases": [
+      "miro"
+    ],
+    "simple_icons_slug": "miro",
+    "icon_url": "https://cdn.simpleicons.org/miro",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "linux": {
+    "name": "Linux",
+    "category": "os",
+    "aliases": [
+      "linux"
+    ],
+    "simple_icons_slug": "linux",
+    "icon_url": "https://cdn.simpleicons.org/linux",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "nginx": {
+    "name": "NGINX",
+    "category": "infra",
+    "aliases": [
+      "nginx"
+    ],
+    "simple_icons_slug": "nginx",
+    "icon_url": "https://cdn.simpleicons.org/nginx",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "apache": {
+    "name": "Apache HTTP Server",
+    "category": "infra",
+    "aliases": [
+      "apache http",
+      "apache web server"
+    ],
+    "simple_icons_slug": "apache",
+    "icon_url": "https://cdn.simpleicons.org/apache",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "keycloak": {
+    "name": "Keycloak",
+    "category": "security",
+    "aliases": [
+      "keycloak"
+    ],
+    "simple_icons_slug": "keycloak",
+    "icon_url": "https://cdn.simpleicons.org/keycloak",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  },
+  "auth0": {
+    "name": "Auth0",
+    "category": "security",
+    "aliases": [
+      "auth0"
+    ],
+    "simple_icons_slug": "auth0",
+    "icon_url": "https://cdn.simpleicons.org/auth0",
+    "source": "https://simpleicons.org/",
+    "license": "CC0-1.0 (icon data); brand/trademark rights may still apply",
+    "asset_kind": "svg"
+  }
+}
