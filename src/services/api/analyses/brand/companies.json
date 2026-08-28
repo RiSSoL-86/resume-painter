@@ -1,0 +1,816 @@
+{
+  "_meta": {
+    "source": "Resume Analysis Brand Icons Manifest",
+    "version": "2026-08-26-v4",
+    "strategy": "Google favicon endpoint backed by each company's official domain. Useful as a compact UI icon, not necessarily the official full logo."
+  },
+  "sber": {
+    "name": "Сбер",
+    "category": "bank",
+    "domain": "sberbank.ru",
+    "aliases": [
+      "сбер",
+      "сбербанк",
+      "sber",
+      "sberbank",
+      "пао сбербанк",
+      "сбер управление активами"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://sberbank.ru",
+    "source": "https://sberbank.ru",
+    "asset_kind": "favicon"
+  },
+  "vtb": {
+    "name": "ВТБ",
+    "category": "bank",
+    "domain": "vtb.ru",
+    "aliases": [
+      "втб",
+      "банк втб",
+      "vtb",
+      "пао втб"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://vtb.ru",
+    "source": "https://vtb.ru",
+    "asset_kind": "favicon"
+  },
+  "gazprombank": {
+    "name": "Газпромбанк",
+    "category": "bank",
+    "domain": "gazprombank.ru",
+    "aliases": [
+      "газпромбанк",
+      "гпб",
+      "gazprombank",
+      "банк гпб"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://gazprombank.ru",
+    "source": "https://gazprombank.ru",
+    "asset_kind": "favicon"
+  },
+  "alfabank": {
+    "name": "Альфа-Банк",
+    "category": "bank",
+    "domain": "alfabank.ru",
+    "aliases": [
+      "альфа-банк",
+      "альфа банк",
+      "alfabank",
+      "alfa bank",
+      "alfa-bank"
+    ],
+    "icon_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alfa-Bank.svg",
+    "source": "https://alfabank.ru",
+    "asset_kind": "svg_logo",
+    "icon_source": "https://commons.wikimedia.org/wiki/File:Alfa-Bank.svg"
+  },
+  "tbank": {
+    "name": "Т-Банк",
+    "category": "bank_fintech",
+    "domain": "tbank.ru",
+    "aliases": [
+      "т-банк",
+      "т банк",
+      "tbank",
+      "t-bank",
+      "тинькофф",
+      "тинькофф банк",
+      "tinkoff",
+      "tinkoff bank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://tbank.ru",
+    "source": "https://tbank.ru",
+    "asset_kind": "favicon"
+  },
+  "psb": {
+    "name": "ПСБ",
+    "category": "bank",
+    "domain": "psbank.ru",
+    "aliases": [
+      "псб",
+      "промсвязьбанк",
+      "psb",
+      "psbank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://psbank.ru",
+    "source": "https://psbank.ru",
+    "asset_kind": "favicon"
+  },
+  "rshb": {
+    "name": "Россельхозбанк",
+    "category": "bank",
+    "domain": "rshb.ru",
+    "aliases": [
+      "россельхозбанк",
+      "рсхб",
+      "rshb",
+      "rosselkhozbank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://rshb.ru",
+    "source": "https://rshb.ru",
+    "asset_kind": "favicon"
+  },
+  "mkb": {
+    "name": "Московский кредитный банк",
+    "category": "bank",
+    "domain": "mkb.ru",
+    "aliases": [
+      "мкб",
+      "московский кредитный банк",
+      "mkb"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://mkb.ru",
+    "source": "https://mkb.ru",
+    "asset_kind": "favicon"
+  },
+  "sovcombank": {
+    "name": "Совкомбанк",
+    "category": "bank",
+    "domain": "sovcombank.ru",
+    "aliases": [
+      "совкомбанк",
+      "sovcombank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://sovcombank.ru",
+    "source": "https://sovcombank.ru",
+    "asset_kind": "favicon"
+  },
+  "domrfbank": {
+    "name": "Банк ДОМ.РФ",
+    "category": "bank",
+    "domain": "domrfbank.ru",
+    "aliases": [
+      "дом.рф",
+      "банк дом.рф",
+      "дом рф банк",
+      "domrfbank",
+      "bank dom.rf"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://domrfbank.ru",
+    "source": "https://domrfbank.ru",
+    "asset_kind": "favicon"
+  },
+  "raiffeisen": {
+    "name": "Райффайзенбанк",
+    "category": "bank",
+    "domain": "raiffeisen.ru",
+    "aliases": [
+      "райффайзенбанк",
+      "райффайзен",
+      "raiffeisen",
+      "raiffeisenbank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://raiffeisen.ru",
+    "source": "https://raiffeisen.ru",
+    "asset_kind": "favicon"
+  },
+  "unicredit": {
+    "name": "ЮниКредит Банк",
+    "category": "bank",
+    "domain": "unicreditbank.ru",
+    "aliases": [
+      "юникредит",
+      "юникредит банк",
+      "unicredit",
+      "unicredit bank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://unicreditbank.ru",
+    "source": "https://unicreditbank.ru",
+    "asset_kind": "favicon"
+  },
+  "uralsib": {
+    "name": "БАНК УРАЛСИБ",
+    "category": "bank",
+    "domain": "uralsib.ru",
+    "aliases": [
+      "уралсиб",
+      "банк уралсиб",
+      "uralsib"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://uralsib.ru",
+    "source": "https://uralsib.ru",
+    "asset_kind": "favicon"
+  },
+  "bspb": {
+    "name": "Банк Санкт-Петербург",
+    "category": "bank",
+    "domain": "bspb.ru",
+    "aliases": [
+      "банк санкт-петербург",
+      "банк спб",
+      "бспб",
+      "bspb"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://bspb.ru",
+    "source": "https://bspb.ru",
+    "asset_kind": "favicon"
+  },
+  "akbars": {
+    "name": "Ак Барс Банк",
+    "category": "bank",
+    "domain": "akbars.ru",
+    "aliases": [
+      "ак барс",
+      "ак барс банк",
+      "ak bars",
+      "akbars"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://akbars.ru",
+    "source": "https://akbars.ru",
+    "asset_kind": "favicon"
+  },
+  "otpbank": {
+    "name": "ОТП Банк",
+    "category": "bank",
+    "domain": "otpbank.ru",
+    "aliases": [
+      "отп банк",
+      "otp bank",
+      "otpbank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://otpbank.ru",
+    "source": "https://otpbank.ru",
+    "asset_kind": "favicon"
+  },
+  "rsb": {
+    "name": "Русский Стандарт",
+    "category": "bank",
+    "domain": "rsb.ru",
+    "aliases": [
+      "русский стандарт",
+      "банк русский стандарт",
+      "russian standard",
+      "rsb"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://rsb.ru",
+    "source": "https://rsb.ru",
+    "asset_kind": "favicon"
+  },
+  "pochtabank": {
+    "name": "Почта Банк",
+    "category": "bank",
+    "domain": "pochtabank.ru",
+    "aliases": [
+      "почта банк",
+      "pochtabank",
+      "posta bank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://pochtabank.ru",
+    "source": "https://pochtabank.ru",
+    "asset_kind": "favicon"
+  },
+  "mtsbank": {
+    "name": "МТС Банк",
+    "category": "bank_fintech",
+    "domain": "mtsbank.ru",
+    "aliases": [
+      "мтс банк",
+      "mts bank",
+      "mtsbank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://mtsbank.ru",
+    "source": "https://mtsbank.ru",
+    "asset_kind": "favicon"
+  },
+  "rencredit": {
+    "name": "Ренессанс Банк",
+    "category": "bank",
+    "domain": "rencredit.ru",
+    "aliases": [
+      "ренессанс банк",
+      "ренессанс кредит",
+      "rencredit",
+      "renaissance credit"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://rencredit.ru",
+    "source": "https://rencredit.ru",
+    "asset_kind": "favicon"
+  },
+  "zenit": {
+    "name": "Банк ЗЕНИТ",
+    "category": "bank",
+    "domain": "zenit.ru",
+    "aliases": [
+      "банк зенит",
+      "зенит банк",
+      "zenit bank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://zenit.ru",
+    "source": "https://zenit.ru",
+    "asset_kind": "favicon"
+  },
+  "absolutbank": {
+    "name": "Абсолют Банк",
+    "category": "bank",
+    "domain": "absolutbank.ru",
+    "aliases": [
+      "абсолют банк",
+      "absolut bank",
+      "absolutbank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://absolutbank.ru",
+    "source": "https://absolutbank.ru",
+    "asset_kind": "favicon"
+  },
+  "expobank": {
+    "name": "Экспобанк",
+    "category": "bank",
+    "domain": "expobank.ru",
+    "aliases": [
+      "экспобанк",
+      "expobank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://expobank.ru",
+    "source": "https://expobank.ru",
+    "asset_kind": "favicon"
+  },
+  "homebank": {
+    "name": "Хоум Банк",
+    "category": "bank",
+    "domain": "home.bank",
+    "aliases": [
+      "хоум банк",
+      "хоум кредит",
+      "home bank",
+      "home credit"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://home.bank",
+    "source": "https://home.bank",
+    "asset_kind": "favicon"
+  },
+  "tochka": {
+    "name": "Точка",
+    "category": "fintech",
+    "domain": "tochka.com",
+    "aliases": [
+      "точка",
+      "банк точка",
+      "tochka",
+      "tochka bank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://tochka.com",
+    "source": "https://tochka.com",
+    "asset_kind": "favicon"
+  },
+  "modulbank": {
+    "name": "Модульбанк",
+    "category": "fintech",
+    "domain": "modulbank.ru",
+    "aliases": [
+      "модульбанк",
+      "modulbank",
+      "модуль банк"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://modulbank.ru",
+    "source": "https://modulbank.ru",
+    "asset_kind": "favicon"
+  },
+  "yoomoney": {
+    "name": "ЮMoney",
+    "category": "fintech",
+    "domain": "yoomoney.ru",
+    "aliases": [
+      "юмани",
+      "юmoney",
+      "yoomoney",
+      "яндекс.деньги",
+      "яндекс деньги"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://yoomoney.ru",
+    "source": "https://yoomoney.ru",
+    "asset_kind": "favicon"
+  },
+  "yookassa": {
+    "name": "ЮKassa",
+    "category": "fintech",
+    "domain": "yookassa.ru",
+    "aliases": [
+      "юкасса",
+      "юkassa",
+      "yookassa",
+      "yandex checkout"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://yookassa.ru",
+    "source": "https://yookassa.ru",
+    "asset_kind": "favicon"
+  },
+  "ozonbank": {
+    "name": "Ozon Банк",
+    "category": "fintech",
+    "domain": "finance.ozon.ru",
+    "aliases": [
+      "ozon банк",
+      "озон банк",
+      "ozon bank",
+      "ecom bank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://finance.ozon.ru",
+    "source": "https://finance.ozon.ru",
+    "asset_kind": "favicon"
+  },
+  "wildberriesbank": {
+    "name": "Вайлдберриз Банк",
+    "category": "fintech",
+    "domain": "wildberries.ru",
+    "aliases": [
+      "вайлдберриз банк",
+      "wildberries банк",
+      "wb банк",
+      "wildberries bank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://wildberries.ru",
+    "source": "https://wildberries.ru",
+    "asset_kind": "favicon"
+  },
+  "yandexbank": {
+    "name": "Яндекс Банк",
+    "category": "fintech",
+    "domain": "bank.yandex.ru",
+    "aliases": [
+      "яндекс банк",
+      "yandex bank",
+      "yandexbank"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://bank.yandex.ru",
+    "source": "https://bank.yandex.ru",
+    "asset_kind": "favicon"
+  },
+  "qiwi": {
+    "name": "QIWI",
+    "category": "fintech_legacy",
+    "domain": "qiwi.com",
+    "aliases": [
+      "qiwi",
+      "киви",
+      "qiwi bank",
+      "киви банк"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://qiwi.com",
+    "source": "https://qiwi.com",
+    "asset_kind": "favicon"
+  },
+  "cloudpayments": {
+    "name": "CloudPayments",
+    "category": "fintech",
+    "domain": "cloudpayments.ru",
+    "aliases": [
+      "cloudpayments",
+      "cloud payments",
+      "клаудпейментс"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://cloudpayments.ru",
+    "source": "https://cloudpayments.ru",
+    "asset_kind": "favicon"
+  },
+  "robokassa": {
+    "name": "Robokassa",
+    "category": "fintech",
+    "domain": "robokassa.com",
+    "aliases": [
+      "robokassa",
+      "робокасса"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://robokassa.com",
+    "source": "https://robokassa.com",
+    "asset_kind": "favicon"
+  },
+  "uniteller": {
+    "name": "Uniteller",
+    "category": "fintech",
+    "domain": "uniteller.ru",
+    "aliases": [
+      "uniteller",
+      "юнителлер"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://uniteller.ru",
+    "source": "https://uniteller.ru",
+    "asset_kind": "favicon"
+  },
+  "sbertech": {
+    "name": "СберТех",
+    "category": "bank_it",
+    "domain": "sbertech.ru",
+    "aliases": [
+      "сбертех",
+      "sbertech",
+      "sber tech"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://sbertech.ru",
+    "source": "https://sbertech.ru",
+    "asset_kind": "favicon"
+  },
+  "t1": {
+    "name": "Т1",
+    "category": "bank_it",
+    "domain": "t1.ru",
+    "aliases": [
+      "т1",
+      "t1",
+      "т1 интеграция",
+      "т1 консалтинг"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://t1.ru",
+    "source": "https://t1.ru",
+    "asset_kind": "favicon"
+  },
+  "innotech": {
+    "name": "Иннотех",
+    "category": "bank_it",
+    "domain": "inno.tech",
+    "aliases": [
+      "иннотех",
+      "innotech",
+      "inno.tech"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://inno.tech",
+    "source": "https://inno.tech",
+    "asset_kind": "favicon"
+  },
+  "diasoft": {
+    "name": "Диасофт",
+    "category": "bank_it",
+    "domain": "diasoft.ru",
+    "aliases": [
+      "диасофт",
+      "diasoft"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://diasoft.ru",
+    "source": "https://diasoft.ru",
+    "asset_kind": "favicon"
+  },
+  "croc": {
+    "name": "КРОК",
+    "category": "bank_it",
+    "domain": "croc.ru",
+    "aliases": [
+      "крок",
+      "croc"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://croc.ru",
+    "source": "https://croc.ru",
+    "asset_kind": "favicon"
+  },
+  "lanit": {
+    "name": "ЛАНИТ",
+    "category": "bank_it",
+    "domain": "lanit.ru",
+    "aliases": [
+      "ланит",
+      "lanit"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://lanit.ru",
+    "source": "https://lanit.ru",
+    "asset_kind": "favicon"
+  },
+  "ozon": {
+    "name": "Ozon",
+    "category": "ecommerce_fintech",
+    "domain": "ozon.ru",
+    "aliases": [
+      "ozon",
+      "озон",
+      "ооо интернет решения",
+      "ozon tech",
+      "ozon fintech",
+      "озон тех",
+      "озон финтех"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://ozon.ru",
+    "source": "https://ozon.ru",
+    "asset_kind": "favicon"
+  },
+  "wildberries": {
+    "name": "Wildberries / RWB",
+    "category": "ecommerce_fintech",
+    "domain": "wildberries.ru",
+    "aliases": [
+      "wildberries",
+      "вайлдберриз",
+      "вб",
+      "wb",
+      "rwb",
+      "рвб",
+      "объединенная компания wildberries и russ",
+      "wildberries & russ"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://wildberries.ru",
+    "source": "https://wildberries.ru",
+    "asset_kind": "favicon"
+  },
+  "yandex": {
+    "name": "Яндекс",
+    "category": "bigtech_fintech",
+    "domain": "yandex.ru",
+    "aliases": [
+      "яндекс",
+      "yandex",
+      "ооо яндекс",
+      "yandex fintech",
+      "яндекс финтех",
+      "яндекс плюс",
+      "яндекс маркет",
+      "yandex market"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://yandex.ru",
+    "source": "https://yandex.ru",
+    "asset_kind": "favicon"
+  },
+  "avito": {
+    "name": "Avito",
+    "category": "marketplace_it",
+    "domain": "avito.ru",
+    "aliases": [
+      "avito",
+      "авито",
+      "ооо кех екоммерц",
+      "кех екоммерц"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://avito.ru",
+    "source": "https://avito.ru",
+    "asset_kind": "favicon"
+  },
+  "vk": {
+    "name": "VK",
+    "category": "bigtech_fintech",
+    "domain": "vk.com",
+    "aliases": [
+      "vk",
+      "вк",
+      "вконтакте",
+      "vk tech",
+      "vk pay",
+      "mail.ru",
+      "мэйл.ру",
+      "mail ru group",
+      "vk company"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://vk.com",
+    "source": "https://vk.com",
+    "asset_kind": "favicon"
+  },
+  "mts": {
+    "name": "МТС",
+    "category": "telecom_fintech",
+    "domain": "mts.ru",
+    "aliases": [
+      "мтс",
+      "mts",
+      "пао мтс",
+      "мтс digital",
+      "mts digital",
+      "мтс финтех",
+      "mts fintech",
+      "мтс web services",
+      "mts web services"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://mts.ru",
+    "source": "https://mts.ru",
+    "asset_kind": "favicon"
+  },
+  "megafon": {
+    "name": "МегаФон",
+    "category": "telecom_it",
+    "domain": "megafon.ru",
+    "aliases": [
+      "мегафон",
+      "megafon",
+      "megaфон",
+      "пао мегафон",
+      "мегафон ит",
+      "megafon it"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://megafon.ru",
+    "source": "https://megafon.ru",
+    "asset_kind": "favicon"
+  },
+  "2gis": {
+    "name": "2ГИС",
+    "category": "bigtech_it",
+    "domain": "2gis.ru",
+    "aliases": [
+      "2гис",
+      "2gis",
+      "дубльгис",
+      "doublegis"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://2gis.ru",
+    "source": "https://2gis.ru",
+    "asset_kind": "favicon"
+  },
+  "rostelecom": {
+    "name": "Ростелеком",
+    "category": "telecom_it",
+    "domain": "rt.ru",
+    "aliases": [
+      "ростелеком",
+      "rostelecom",
+      "rtk",
+      "рткомм",
+      "пао ростелеком"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://rt.ru",
+    "source": "https://rt.ru",
+    "asset_kind": "favicon"
+  },
+  "kaspersky": {
+    "name": "Лаборатория Касперского",
+    "category": "cybersecurity_it",
+    "domain": "kaspersky.ru",
+    "aliases": [
+      "касперский",
+      "лаборатория касперского",
+      "kaspersky",
+      "kaspersky lab"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://kaspersky.ru",
+    "source": "https://kaspersky.ru",
+    "asset_kind": "favicon"
+  },
+  "kontur": {
+    "name": "Контур",
+    "category": "b2b_fintech_it",
+    "domain": "kontur.ru",
+    "aliases": [
+      "контур",
+      "скб контур",
+      "skb kontur",
+      "kontur",
+      "контур.банк",
+      "контур банк"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://kontur.ru",
+    "source": "https://kontur.ru",
+    "asset_kind": "favicon"
+  },
+  "tensor": {
+    "name": "Тензор / СБИС",
+    "category": "b2b_fintech_it",
+    "domain": "saby.ru",
+    "aliases": [
+      "тензор",
+      "tensor",
+      "сбис",
+      "sbis",
+      "saby",
+      "саби"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://saby.ru",
+    "source": "https://saby.ru",
+    "asset_kind": "favicon"
+  },
+  "yandexpay": {
+    "name": "Яндекс Пэй",
+    "category": "fintech",
+    "domain": "pay.yandex.ru",
+    "aliases": [
+      "яндекс пэй",
+      "яндекс pay",
+      "yandex pay",
+      "yandexpay",
+      "сплит",
+      "яндекс сплит",
+      "yandex split"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://pay.yandex.ru",
+    "source": "https://pay.yandex.ru",
+    "asset_kind": "favicon"
+  },
+  "dolyame": {
+    "name": "Долями",
+    "category": "fintech",
+    "domain": "dolyame.ru",
+    "aliases": [
+      "долями",
+      "dolyame",
+      "долями от т-банка"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://dolyame.ru",
+    "source": "https://dolyame.ru",
+    "asset_kind": "favicon"
+  },
+  "moneyman": {
+    "name": "MoneyMan",
+    "category": "fintech",
+    "domain": "moneyman.ru",
+    "aliases": [
+      "moneyman",
+      "мани мен",
+      "манимен"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://moneyman.ru",
+    "source": "https://moneyman.ru",
+    "asset_kind": "favicon"
+  },
+  "carprice": {
+    "name": "CarPrice",
+    "category": "fintech_marketplace",
+    "domain": "carprice.ru",
+    "aliases": [
+      "carprice",
+      "карпрайс"
+    ],
+    "icon_url": "https://www.google.com/s2/favicons?sz=128&domain_url=https://carprice.ru",
+    "source": "https://carprice.ru",
+    "asset_kind": "favicon"
+  }
+}
